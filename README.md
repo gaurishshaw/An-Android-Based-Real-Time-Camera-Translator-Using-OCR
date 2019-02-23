@@ -6,18 +6,6 @@ Runs the Tesseract OCR engine using [tess-two](https://github.com/rmtheis/tess-t
 
 Most of the code making up the core structure of this project has been adapted from the ZXing Barcode Scanner. Along with Tesseract-OCR and Tesseract Tools for Android (tesseract-android-tools), several open source projects have been used in this project, including leptonica, google-api-translate-java, microsoft-translator-java-api, and jtar.
 
-## Video
-
-[![Video](http://img.youtube.com/vi/FOSgiPjGwx4/0.jpg)](http://www.youtube.com/watch?v=FOSgiPjGwx4)
-
-A slightly modified version:
-
-[![Video](http://img.youtube.com/vi/7vNepTmBTG8/0.jpg)](http://www.youtube.com/watch?v=7vNepTmBTG8)
-
-## Requires
-
-* A Windows Azure Marketplace Client ID and Client Secret (for translation) - [Documentation](http://msdn.microsoft.com/en-us/library/hh454950.aspx)
-* A Google Translate API key (for translation) - [Documentation](https://code.google.com/apis/console/?api=translate)
 
 ## Training data for OCR
 
